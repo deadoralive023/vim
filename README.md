@@ -1,1 +1,1 @@
-# vim
+# A vimrc config file
